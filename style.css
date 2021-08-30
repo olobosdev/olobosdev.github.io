@@ -277,3 +277,11 @@ p
         grid-template-columns: repeat;
     }
 }
+a
+{
+    color: #fff;
+}
+a:visited, a:hover, a:active, a:focus
+{
+    color: #fff
+}
